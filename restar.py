@@ -1,2 +1,2 @@
-def restar(a, b):
-    return a - b   
+def restar(num1, num2):
+    return num1 - num2   
